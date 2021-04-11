@@ -6,3 +6,4 @@ const password = document.getElementById("password");
     lihat.addEventListener("dblclick",function(){
         password.type= "password";
     });
+
